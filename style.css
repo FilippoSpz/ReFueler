@@ -4090,7 +4090,7 @@ textarea.form-control-lg {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
     color: var(--bs-nav-tabs-link-active-color);
-    background-color: var(--bs-nav-tabs-link-active-bg);
+    background-color: black;
     border-color: var(--bs-nav-tabs-link-active-border-color);
 }
 
@@ -12431,7 +12431,7 @@ hr.divider-light {
 }
 
 hr.divider-dark {
-    background-color: #604536FF;
+    background-color: black;
 }
 
 #mainNav {
@@ -12490,8 +12490,8 @@ hr.divider-dark {
     }
 
     #mainNav.navbar-shrink {
-        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-        background-color: #fff;
+        background: linear-gradient(270deg, rgba(77, 74, 73, 1) 45%, rgba(209, 10, 10, 1) 75%);
+        border-bottom: black solid 3px;
     }
 
     #mainNav.navbar-shrink .navbar-brand {
