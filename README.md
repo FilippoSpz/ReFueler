@@ -1,48 +1,45 @@
 # ReFueler
 
-## Descrizione del Progetto
+## Project Description
 
-**ReFueler** è un progetto che mira a fornire un'interfaccia moderna e intuitiva per la gestione di contenuti visivi e
-testuali, con un design responsivo e accattivante. Il progetto utilizza HTML, CSS e JavaScript per creare un'esperienza
-utente fluida e dinamica.
+**ReFueler** is a project aimed at providing a modern and intuitive interface for managing visual and textual content, with a responsive and captivating design. The project uses HTML, CSS, and JavaScript to create a smooth and dynamic user experience.
 
 ---
 
-## Caratteristiche Principali
+## Main Features
 
-- **Navbar dinamica**: Cambia stile in base allo stato di scroll della pagina.
-- **Design responsivo**: Ottimizzato per dispositivi mobili, tablet e desktop.
-- **Sezione Portfolio**: Include box interattivi con effetti hover.
-- **Header personalizzabile**: Con gradienti e tipografia moderna.
-- **Compatibilità cross-browser**: Funziona su tutti i principali browser.
-
----
-
-## Tecnologie Utilizzate
-
-- **HTML5**: Struttura semantica del progetto.
-- **CSS3**: Styling avanzato con gradienti, media query e transizioni.
-- **JavaScript**: Interattività e dinamismo.
-- **Frameworks e Librerie**:
-    - Bootstrap (opzionale, se utilizzato per la navbar o il layout).
-    - Font Awesome (opzionale, per le icone).
+- **Dynamic Navbar**: Changes style based on the page scroll state.
+- **Responsive Design**: Optimized for mobile devices, tablets, and desktops.
+- **Portfolio Section**: Includes interactive boxes with hover effects.
+- **Customizable Header**: With gradients and modern typography.
+- **Cross-Browser Compatibility**: Works on all major browsers.
 
 ---
 
-## Licenza
+## Technologies Used
 
-Questo progetto è puramente dimostrativo e non è destinato a scopi commerciali. È concesso in licenza sotto
-la [MIT License](https://opensource.org/licenses/MIT).
+- **HTML5**: Semantic structure of the project.
+- **CSS3**: Advanced styling with gradients, media queries, and transitions.
+- **JavaScript**: Interactivity and dynamism.
+- **Frameworks and Libraries**:
+  - Bootstrap (optional, if used for the navbar or layout).
+  - Font Awesome (optional, for icons).
 
 ---
 
-## Autore
+## License
+
+This project is purely demonstrative and not intended for commercial purposes. It is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+---
+
+## Author
 
 **FilippoSpz**  
-[Profilo GitHub](https://github.com/FilippoSpz)
+[GitHub Profile](https://github.com/FilippoSpz)
 
 ---
 
-## Contatti
+## Contacts
 
-Per domande o supporto, contattami via email: `spazzalifilippo@icloud.com`.
+For questions or support, contact me via email: `spazzalifilippo@icloud.com`.
